@@ -1,0 +1,8 @@
+CAIAS CLI manual test checklist
+1. View: choose 1; all 12 sample students should display.
+2. Search: choose 2; search CAI104 or Kiara Mooncrest.
+3. Add: choose 3; use a new ID and unique email; record should appear in contacts.csv.
+4. Update: choose 4; update a student's course; press Enter to keep other fields.
+5. Delete: choose 5; enter an ID and type YES; record should disappear from contacts.csv.
+6. Analytics: choose 6; total and per-course counts should display.
+7. Save and Exit: choose 7; changes remain in contacts.csv after restarting.
